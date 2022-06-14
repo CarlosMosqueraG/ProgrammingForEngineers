@@ -4,7 +4,7 @@ B. Interpretado
 C. Heredado
 D. Todas las anteriores
 E. Ninguna de las anteriores
-ANSWER: 
+ANSWER: B. Interpretado
 
 Quien fue el creador de python
 A. John Rossenblant
@@ -13,7 +13,7 @@ C. Ian Van Dahl
 D. Guido Van Rossum
 E. Chris Paliquaw
 F. Fei Fei Li
-ANSWER: 
+ANSWER: D. Guido Van Rossum
 
 Que dara el siguiente programa de salida en python.  2.2*'holis'
 A. 'h'
@@ -22,7 +22,7 @@ C. TypeError
 D. CompilationError
 E. Ninguna de Las Anteriores
 F. Una salida vacía
-ANSWER: 
+ANSWER: C. TypeError
 
 Cual sera la siguiente salida en python. type(int(float('0.2')))
 A. CompilationError
@@ -30,7 +30,7 @@ B. TypeError
 C. <class 'int'>
 D. Ninguna de las anteriores
 E. Salida vacia
-ANSWER: 
+ANSWER: D. Ninguna de las anteriores
 
 Cuale es el error en la siguiente linea de codigo. 
 print(#hola# "Estamos imprimiendo")
@@ -39,21 +39,21 @@ A. Estamos mezclando en la misma linea un comentario
 B. Ninguna de las anteriores
 C. Todo esta bien estructurado
 D. El codigo no compila, debe ser reparado
-ANSWER: 
+ANSWER: C. Todo esta bien estructurado
 
 Es correcto declarar la siguiente variable? a = 3*'notas'
 A. Si, esto es permitido
 B. No, dara error
 C. Mejor por separado para tener entero y cadena
 D. Python no permite este tipo de asignaciones
-ANSWER: 
+ANSWER: A. Si, esto es permitido
 
 Compilara esta linea en python? a = 1;
 A. Python no permite este tipo de asignaciones
 B. No, dara error
 C. Mejor por separado para tener entero y caracter
 D. Si, esto es permitido
-ANSWER: 
+ANSWER: Si, esto es permitido
 
 Ejecuto un programa llamado 'programa_x2.py' en python en la terminal de anaconda de la siguiente manera: python programa_x2.py
 A. Cierto
@@ -68,4 +68,4 @@ ANSWER:
 El token '=' es el de comparacion de variables y constantes.
 A. Cierto
 B. Falso
-ANSWER: 
+ANSWER: A. Cierto
